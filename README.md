@@ -2,7 +2,7 @@
 This is the First Challenge encrypter JS code web page, for the Oracle Next Education Alura and Oracle program.
 # Encriptador ¡Hola, bienvenido a mi challenge!
 
-![imagen](https://github.com/luisscrc/Portafolio/blob/main/pagina.png)
+![imagen](https://github.com/luisscrc/First_Challenge_Alura/blob/main/challenge.png)
 
 ## Herramientas utilizadas:
 
