@@ -7,10 +7,13 @@ This is the First Challenge encrypter JS code web page, for the Oracle Next Educ
 ## Herramientas utilizadas:
 
 * HTML
-
 * CSS
-
 * Flex-box
+## Mejoras
+
+* Los botones cambian de color.
+* Añadí un color adicional a la paleta de colores según el generador de Adobe.
+* Funcionalidad de botón copiar. 
 
 ## Hecho por:
 
